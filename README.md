@@ -6,7 +6,7 @@ I am a future computer engineer and enthusiast of new technologies 🇧🇷
 
 - 💼 Computer engineering student at UTFPR
 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
 
 - ❤️ I like exploring open source technologies
 
